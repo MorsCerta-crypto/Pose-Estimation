@@ -123,3 +123,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+**/__pychache__
+
+**/share
+#*.txt
+**/bin
+**/lib
+*.cfg
+MoveNet/models/
